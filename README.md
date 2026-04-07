@@ -1,4 +1,10 @@
-## 🔍 Key Insights
+## 👤 Author
+
+Subham Chaudhary
+
+Computer Science @ Caldwell University
+ML | Data Engineering | Full-Stack Development
+ 🔍 Key Insights
 - Translation may improve performance when:
   - data is highly informal  
   - multilingual models struggle with nuance  
@@ -47,9 +53,4 @@ Fine-tune larger models (XLM-R Large, mT5)
 Use domain-adaptive pretraining
 Improve translation quality for code-mixed text
 Deploy as an API (real-time inference)
-👤 Author
 
-Subham Chaudhary
-
-Computer Science @ Caldwell University
-ML | Data Engineering | Full-Stack Development
