@@ -4,7 +4,7 @@ Subham Chaudhary
 
 Computer Science @ Caldwell University
 ML | Data Engineering | Full-Stack Development
- 🔍 Key Insights
+## 🔍 Key Insights
 - Translation may improve performance when:
   - data is highly informal  
   - multilingual models struggle with nuance  
