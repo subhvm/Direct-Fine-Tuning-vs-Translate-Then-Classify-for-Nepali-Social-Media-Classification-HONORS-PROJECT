@@ -1,0 +1,30 @@
+# Core
+python>=3.9
+
+# Data Handling
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+
+# Deep Learning
+torch>=2.1.0
+
+# Hugging Face Ecosystem
+transformers>=4.40.0
+datasets>=2.18.0
+sentencepiece>=0.1.99
+sacremoses>=0.0.53
+huggingface-hub>=0.20.0
+
+# Utilities
+tqdm>=4.66.0
+
+# Optional (recommended for notebooks & experiments)
+jupyter>=1.0.0
+notebook>=7.0.0
+
+# Optional (for evaluation & visualization)
+matplotlib>=3.7.0
+seaborn>=0.12.0
