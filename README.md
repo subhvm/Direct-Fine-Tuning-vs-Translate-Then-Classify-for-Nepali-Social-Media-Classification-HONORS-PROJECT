@@ -1,8 +1,8 @@
 ## 👤 Author
 
-Subham Chaudhary
+## Subham Chaudhary
 
-Computer Science @ Caldwell University
+## Computer Science @ Caldwell University - 
 ML | Data Engineering | Full-Stack Development
 ## 🔍 Key Insights
 - Translation may improve performance when:
